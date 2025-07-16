@@ -15,6 +15,5 @@ Building full-stack apps with Spring Boot + React
 
 Advanced Android architectures (Clean Architecture, MVVM)
 
-Cloud technologies (AWS, Firebase)
 
-Passionate about writing clean, maintainable code and solving real-world problems through technology. Open to collaborations and mentorship opportunities!
+Passionate about writing clean, maintainable code and solving real-world problems through technology.
