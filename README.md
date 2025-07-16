@@ -5,22 +5,16 @@
 
 Mobile: Android Studio, Kotlin, Jetpack Compose, MVVM, Room/SQLite, Retrofit, Coroutines
 
-Backend: Java, Spring Boot, Hibernate, REST APIs, MySQL/PostgreSQL
+Backend: Java, Spring Boot, Hibernate, REST APIs, MySQL
 
-Frontend: React, HTML5, CSS3, Bootstrap, Thymeleaf
+Frontend: React, HTML5, CSS3, Bootstrap, Tailwind
 
-Tools: Git, Gradle, Postman, IntelliJ IDEA
-
-🌱 Currently sharpening my skills in:
+**Currently sharpening my skills in:**
 
 Building full-stack apps with Spring Boot + React
 
-Advanced Android architectures (Clean Architecture, MVI)
+Advanced Android architectures (Clean Architecture, MVVM)
 
 Cloud technologies (AWS, Firebase)
 
-📚 Passionate about writing clean, maintainable code and solving real-world problems through technology. Open to collaborations and mentorship opportunities!
-
-🌐 Socials:
-https://img.shields.io/badge/LinkedIn-%25230077B5.svg?logo=linkedin&logoColor=white
-https://img.shields.io/badge/GitHub-%2523181717.svg?logo=github&logoColor=white
+Passionate about writing clean, maintainable code and solving real-world problems through technology. Open to collaborations and mentorship opportunities!
