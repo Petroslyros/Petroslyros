@@ -1,7 +1,7 @@
 💫 About Me:
 🚀 Aspiring Full-Stack Developer with strong foundations in Android (Kotlin) and expanding expertise in Java/Spring Boot backend development and React frontend.
 
-🔧 Tech Toolkit:
+ **Tech Toolkit:**
 
 Mobile: Android Studio, Kotlin, Jetpack Compose, MVVM, Room/SQLite, Retrofit, Coroutines
 
