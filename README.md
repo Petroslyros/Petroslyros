@@ -3,11 +3,11 @@
 
  **Tech Toolkit:**
 
-Mobile: Android Studio, Kotlin, Jetpack Compose, MVVM, Room/SQLite, Retrofit, Coroutines
-
-Backend: Java, Spring Boot, Hibernate, REST APIs, MySQL
+Backend: Java, Spring Boot, Hibernate, REST APIs, MySQL, C#, .NET
 
 Frontend: React, HTML5, CSS3, Bootstrap, Tailwind
+
+Mobile: Android Studio, Kotlin, Jetpack Compose, MVVM, Room/SQLite, Retrofit, Coroutines
 
 **Currently sharpening my skills in:**
 
