@@ -1,19 +1,14 @@
-💫 About Me:
-🚀 Aspiring Full-Stack Developer with strong foundations in Android (Kotlin) and expanding expertise in Java/Spring Boot backend development and React frontend.
+ Full-Stack Developer specializing in C# .NET/ASP.NET and Java Spring Boot backends with React frontends.
+Tech Toolkit:
 
- **Tech Toolkit:**
-
-Backend: Java, Spring Boot, Hibernate, REST APIs, MySQL, C#, .NET
-
+Backend: C#, ASP.NET Core, Java, Spring Boot, Hibernate, REST APIs, MySQL, MS SQL
 Frontend: React, HTML5, CSS3, Bootstrap, Tailwind
+Mobile: Android Studio, Kotlin, Jetpack Compose (learning)
 
-Mobile: Android Studio, Kotlin, Jetpack Compose, MVVM, Room/SQLite, Retrofit, Coroutines
+What I'm working on:
 
-**Currently sharpening my skills in:**
+Building full-stack web apps with ASP.NET Core + React
+Expanding Java/Spring Boot knowledge for enterprise development
+Writing clean, maintainable code that solves real problems
 
-Building full-stack apps with Spring Boot + React
-
-Advanced Android architectures (Clean Architecture, MVVM)
-
-
-Passionate about writing clean, maintainable code and solving real-world problems through technology.
+Always excited to tackle new web development challenges!
