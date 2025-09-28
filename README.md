@@ -3,12 +3,7 @@ Tech Toolkit:
 
 Backend: C#, .NET Core, Java, Spring Boot, Hibernate, REST APIs, MySQL, MS SQL
 Frontend: React, HTML5, CSS3, Bootstrap, Tailwind
-Mobile: Android Studio, Kotlin, Jetpack Compose (learning)
 
-What I'm working on:
-
-Building full-stack web apps with ASP.NET Core + React
-Expanding Java/Spring Boot knowledge for enterprise development
-Writing clean, maintainable code that solves real problems
-
-Always excited to tackle new web development challenges!
+Am I currently building full-stack web apps with ASP.NET Core + React,
+expanding Java/Spring Boot knowledge for enterprise development and
+writing clean, maintainable code that solves real problems
